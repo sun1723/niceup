@@ -3,7 +3,7 @@
   "cloudfunctionRoot": "cloud/functions/",
   "projectname": "niceup",
   "description": "up主团购小程序",
-  "appid": "wx2f9e81b253634dc3",
+  "appid": "wx5e655bb125272156",
   "setting": {
     "urlCheck": true,
     "es6": false,
